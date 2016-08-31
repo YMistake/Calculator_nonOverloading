@@ -1,0 +1,6 @@
+c:\users\ice\documents\visual studio 2015\Projects\Calculator_nonOverloading\Calculator_nonOverloading\bin\Debug\Calculator_nonOverloading.exe.config
+C:\Users\Ice\Documents\Visual Studio 2015\Projects\Calculator_nonOverloading\Calculator_nonOverloading\bin\Debug\Calculator_nonOverloading.exe
+C:\Users\Ice\Documents\Visual Studio 2015\Projects\Calculator_nonOverloading\Calculator_nonOverloading\bin\Debug\Calculator_nonOverloading.pdb
+C:\Users\Ice\Documents\Visual Studio 2015\Projects\Calculator_nonOverloading\Calculator_nonOverloading\obj\Debug\Calculator_nonOverloading.csprojResolveAssemblyReference.cache
+C:\Users\Ice\Documents\Visual Studio 2015\Projects\Calculator_nonOverloading\Calculator_nonOverloading\obj\Debug\Calculator_nonOverloading.exe
+C:\Users\Ice\Documents\Visual Studio 2015\Projects\Calculator_nonOverloading\Calculator_nonOverloading\obj\Debug\Calculator_nonOverloading.pdb
